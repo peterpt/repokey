@@ -14,3 +14,6 @@ chmod +x repokey && ./repokey
 # Notes
 repokey was build for Debian based Distributions using apt as package management , probably may work
 with other linux distributions as long as you install apt package management
+
+# Youtube video
+- Repokey 1.0 (https://www.youtube.com/watch?v=xWTGxNy9ZiA)
