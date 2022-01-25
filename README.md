@@ -8,8 +8,8 @@ Repokey finds expired signatures in linux apt repositories and updates them auto
 
 # How to use it
 
-git clone https://github.com/peterpt/repokey.git && cd repokey
-chmod +x repokey && ./repokey
+- git clone https://github.com/peterpt/repokey.git && cd repokey
+- chmod +x repokey && ./repokey
 
 # Notes
 repokey was build for Debian based Distributions using apt as package management , probably may work
