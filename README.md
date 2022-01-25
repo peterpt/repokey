@@ -12,7 +12,7 @@ Repokey finds expired signatures in linux apt repositories and updates them auto
 - chmod +x repokey && ./repokey
 
 # Pictures
-|!(https://imgur.com/ETYg7Js)
+!https://imgur.com/ETYg7Js)
 
 # Notes
 repokey was build for Debian based Distributions using apt as package management , probably may work
